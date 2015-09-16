@@ -1,4 +1,4 @@
-#Interactive States Browser (<a href = "https://radiant-shore-8023.herokuapp.com/ " target = "_blank">Demo</a>)
+#Interactive States Browser (<a href = "https://radiant-shore-8023.herokuapp.com/" target = "_blank">Demo</a>)
 
 A media firm located near Rockville, MD has asked to build a states
 information portal.
